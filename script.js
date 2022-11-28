@@ -1,5 +1,5 @@
 // Current age
-const myAge = 8; 
+const myAge = 10; 
 
 // Value will change
 let earlyYears = 2; 
